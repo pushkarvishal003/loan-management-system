@@ -1,0 +1,20 @@
+{
+  "name": "random-joke-generator",
+  "version": "1.0.0",
+  "description": "A fun random joke generator web application using an external API",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server"
+  },
+  "keywords": [
+    "joke",
+    "random",
+    "api",
+    "generator",
+    "fun",
+    "web"
+  ],
+  "author": "Pushkar Vishal",
+  "license": "MIT"
+}
